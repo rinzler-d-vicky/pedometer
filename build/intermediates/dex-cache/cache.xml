@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/rinzler/AndroidStudioProjects/android-pedometer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dac4f7612d8074c31aeb7681c06378ff5772c186">
+        <dex dex="/home/rinzler/AndroidStudioProjects/android-pedometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e3876a45218f3d24a8a042d4e8757e05384a3938/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rinzler/AndroidStudioProjects/android-pedometer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="54015c756370cc0a8944543c7e566d6ff53d6a33">
+        <dex dex="/home/rinzler/AndroidStudioProjects/android-pedometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8f1912728ea29779f7ba0ca2ef0dcb3c699cf814/classes.dex" />
+    </item>
+
+</items>

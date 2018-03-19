@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/rinzler/AndroidStudioProjects/android-pedometer/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/rinzler/AndroidStudioProjects/android-pedometer/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/rinzler/AndroidStudioProjects/android-pedometer/app/build/intermediates/res/merged/debug/drawable/ic_notification.png",
+        "source": "/home/rinzler/AndroidStudioProjects/android-pedometer/app/src/main/res/drawable/ic_notification.png"
+    },
+    {
+        "merged": "/home/rinzler/AndroidStudioProjects/android-pedometer/app/build/intermediates/res/merged/debug/drawable/line40.png",
+        "source": "/home/rinzler/AndroidStudioProjects/android-pedometer/app/src/main/res/drawable/line40.png"
+    }
+]

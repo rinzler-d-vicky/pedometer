@@ -1,0 +1,7 @@
+#Tue Mar 20 01:22:52 IST 2018
+base.0=/home/rinzler/AndroidStudioProjects/android-pedometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8f1912728ea29779f7ba0ca2ef0dcb3c699cf814
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/rinzler/AndroidStudioProjects/android-pedometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e3876a45218f3d24a8a042d4e8757e05384a3938/classes.dex
+base.1=/home/rinzler/AndroidStudioProjects/android-pedometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e3876a45218f3d24a8a042d4e8757e05384a3938
+file.0=/home/rinzler/AndroidStudioProjects/android-pedometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8f1912728ea29779f7ba0ca2ef0dcb3c699cf814/classes.dex
